@@ -15,7 +15,7 @@ load("Parameters.RData")
 
 ##### Indicator calculation
 # functions:
-# - my_parameters: computes the parameters alpha and gamma;
+# - my_parameters: computes the parameters alpha and gamma
 # - my_indicator: aggregates the predictions using as weights alpha and gamma
 # - my_graph: plot the distribution of the indicator normalized
 
