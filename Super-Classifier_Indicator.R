@@ -1,7 +1,7 @@
 # Library can be installed from CRAN
 library(ggplot2)
 
-# load the values predicted by the logistic models.
+# Load the values predicted by the logistic models.
 load("Prediction.RData")
 
 # For privacy reasons, the variable selection and model estimations steps are
